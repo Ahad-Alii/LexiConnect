@@ -75,7 +75,7 @@ LexiConnect/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Ahad-Alii/LexiConnect
+git clone https://github.com/Ahad-Alii/LexiConnect.git
 cd streamify-video-calls
 ```
 
